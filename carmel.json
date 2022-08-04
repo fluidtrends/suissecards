@@ -1,0 +1,13 @@
+{
+    "carmel": {
+        "property": {
+            "id": "62eaa9cb0fbc45202296489c",
+            "name": "suissecards"
+        },
+        "settlement": {
+            "id": "62d270bc6e5cd6f30b74abaf",
+            "name": "ftstudio",
+            "type": "city"
+        }
+    }
+}
